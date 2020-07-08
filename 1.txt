@@ -1,0 +1,2 @@
+https://github.com/ArtistArthur/git_analysis.git
+https://github.com/ArtistArthur/practice.git
