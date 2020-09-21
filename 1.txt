@@ -1,6 +1,0 @@
-https://github.com/ArtistArthur/git_analysis.git
-https://github.com/ArtistArthur/practice.git
-2
-3
-4
-5
