@@ -1,2 +1,1 @@
-# practice
-git practice
+和jianghuliu的互检
